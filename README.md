@@ -15,3 +15,5 @@ Commands
 
 
 Hit Enter! Whole subject's mcqs will be scrapped in Questions.txt
+
+You can then convert it to pdf from this site https://www.sodapdf.com/txt-to-pdf/ or from microsoft word . You can also increase font size .
